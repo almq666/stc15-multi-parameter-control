@@ -1,0 +1,14 @@
+User/Objects/
+**/Listings/
+*.obj
+*.LST
+*.lst
+*.M51
+*.hex
+*.exe
+*.pdb
+*.log
+*.uvopt
+*.uvoptx
+*.uvgui*
+tests/main_host.inc
